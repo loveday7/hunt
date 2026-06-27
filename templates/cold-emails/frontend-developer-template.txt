@@ -1,0 +1,28 @@
+Subject: Frontend Developer | Interested in [COMPANY_NAME]
+
+---
+
+Hi [HIRING_MANAGER_NAME / Hiring Team],
+
+I'm [YOUR_NAME], a frontend developer with [X] years of experience building responsive, user-centric web applications.
+
+I recently discovered [COMPANY_NAME] and was impressed by [SPECIFIC_REASON - e.g., "your UI/UX design" or "your innovative product"].
+
+My expertise includes:
+- [SKILL_1] (React, Vue, Angular, etc.)
+- [SKILL_2] (TypeScript, JavaScript, etc.)
+- [SKILL_3] (CSS, Tailwind, etc.)
+- [ACHIEVEMENT - e.g., "Performance optimization resulting in 50% faster load times"]
+
+I believe my skills in [RELEVANT_AREA] could be valuable to your team, especially for [COMPANY_FOCUS_AREA].
+
+I'm based in [CITY] and open to [WORK_TYPE - remote/hybrid/in-office] opportunities. I'd be delighted to discuss how I can contribute to [COMPANY_NAME]'s success.
+
+Attached is my resume and portfolio link: [YOUR_PORTFOLIO_URL]
+
+Let's connect!
+
+[YOUR_NAME]
+[YOUR_PHONE]
+[YOUR_EMAIL]
+[YOUR_LINKEDIN_URL]

@@ -1,0 +1,25 @@
+Subject: Full-Stack Developer Ready to Impact [COMPANY_NAME]
+
+---
+
+Hi [FOUNDER_NAME / Hiring Team],
+
+I'm a [SKILL_LEVEL] developer passionate about building products that matter. I've been following [COMPANY_NAME] and love [SPECIFIC_ASPECT - e.g., "your approach to [PROBLEM]" or "your recent launch of [PRODUCT]"].
+
+I'm particularly drawn to startups because [REASON - e.g., "of the opportunity to wear multiple hats" or "the chance to have immediate impact"].
+
+What I bring:
+- [X] years building [RELEVANT_PROJECTS/PRODUCTS]
+- Strong full-stack capabilities: [TECH_STACK]
+- Experience [RELEVANT_EXPERIENCE - e.g., "scaling from 0 to 1M users" or "leading technical decisions"]
+- Ability to move fast and adapt quickly
+
+I'm available in [CITIES - e.g., "Surat, Ahmedabad, Nashik"] and happy to work [ARRANGEMENT - "full-time/part-time/equity discussions"].
+
+Would love a quick chat about how I can help [COMPANY_NAME] grow. Check out my work: [PORTFOLIO/GITHUB]
+
+Cheers,
+[YOUR_NAME]
+[YOUR_PHONE]
+[YOUR_EMAIL]
+[YOUR_LINKEDIN_URL]

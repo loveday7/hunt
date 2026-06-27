@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "TechSolutions India",
+    "website": "https://techsolutions.in",
+    "city": "Nashik",
+    "company_type": "Mid-size",
+    "founded_year": 2010,
+    "employee_count": "100-200",
+    "tech_stack": ["Java", "Spring Boot", "Angular", "Oracle"],
+    "hiring_roles": ["Java Developer", "QA Engineer", "Business Analyst"],
+    "hr_email": "hr@techsolutions.in",
+    "linkedin_company_url": "https://linkedin.com/company/techsolutions-india",
+    "notes": "Stable company with good benefits"
+  },
+  {
+    "company_name": "DataWorks Systems",
+    "website": "https://dataworks.io",
+    "city": "Ahmedabad",
+    "company_type": "Mid-size",
+    "founded_year": 2015,
+    "employee_count": "80-150",
+    "tech_stack": ["Python", "Scala", "Hadoop", "Spark"],
+    "hiring_roles": ["Data Engineer", "ML Engineer", "Analytics Engineer"],
+    "hr_email": "careers@dataworks.io",
+    "linkedin_company_url": "https://linkedin.com/company/dataworks-systems",
+    "notes": "Data-focused company, great learning"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "InnovateTech",
+    "website": "https://innovatetech.io",
+    "city": "Ahmedabad",
+    "company_type": "Startup",
+    "founded_year": 2023,
+    "employee_count": "5-20",
+    "tech_stack": ["Python", "Django", "React", "AWS"],
+    "hiring_roles": ["Backend Developer", "DevOps Engineer"],
+    "hr_email": "careers@innovatetech.io",
+    "linkedin_company_url": "https://linkedin.com/company/innovatetech",
+    "notes": "Actively hiring, good for learning"
+  },
+  {
+    "company_name": "QuickStart Labs",
+    "website": "https://quickstartlabs.com",
+    "city": "Surat",
+    "company_type": "Startup",
+    "founded_year": 2021,
+    "employee_count": "20-50",
+    "tech_stack": ["Go", "React", "PostgreSQL", "Docker"],
+    "hiring_roles": ["Full Stack Developer", "Frontend Developer"],
+    "hr_email": "hiring@quickstartlabs.com",
+    "linkedin_company_url": "https://linkedin.com/company/quickstart-labs",
+    "notes": "Focus on B2B SaaS products"
+  }
+]

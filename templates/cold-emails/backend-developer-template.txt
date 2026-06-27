@@ -1,0 +1,23 @@
+Subject: [COMPANY_NAME] - Backend Developer Interest | [YOUR_NAME]
+
+---
+
+Hi [HIRING_MANAGER_NAME / Hiring Team],
+
+I hope this email finds you well. I came across [COMPANY_NAME] and was impressed by [SPECIFIC_REASON - e.g., "your work on [PROJECT/PRODUCT]" or "your tech stack and company culture"].
+
+I'm a backend developer with [X] years of experience specializing in [YOUR_SKILLS - e.g., "Node.js, Python, Go, etc."] and have successfully [SPECIFIC_ACHIEVEMENT - e.g., "built scalable APIs serving 1M+ requests/day" or "led microservices migration reducing latency by 40%"].
+
+I'm particularly interested in [COMPANY_NAME] because [REASON - e.g., "I align with your mission" or "I use similar tech stack and would love to contribute"].
+
+I'd love to discuss how my experience in [RELEVANT_AREA] can add value to your team. I'm open to opportunities in [CITIES/REGIONS - e.g., "Surat, Ahmedabad, or remote"] and available for a quick call at your convenience.
+
+Please find my resume attached, and feel free to reach out at [YOUR_PHONE] or [YOUR_EMAIL].
+
+Looking forward to hearing from you!
+
+Best regards,
+[YOUR_NAME]
+[YOUR_PHONE]
+[YOUR_EMAIL]
+[YOUR_LINKEDIN_URL]
